@@ -45,15 +45,15 @@
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Henry-Howard" alt="Henry-Howard" /></a> </p>-->
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Henry-Howard&show_icons=true&locale=en&theme=highcontrast)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Henry-Howard&show_icons=true&locale=en&theme=dark)
 
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Howard&theme=highcontrast)
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Howard&theme=dark)
 
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=Henry-Howard&count_private=true&show_icons=true&locale=en&layout=compact&theme=highcontrast)
+![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=Henry-Howard&count_private=true&show_icons=true&locale=en&layout=compact&theme=dark)
 
 <h3>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h3>
 <br>
 
 ## Activity 👩‍💻
 
-![Henry Howard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henry_howard&theme=highcontrast)
+[![Henry Howard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henry_howard&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
