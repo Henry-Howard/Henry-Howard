@@ -47,7 +47,7 @@
 
 ![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Henry-Howard&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
 
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Howard&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
+![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Howard&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 
 ![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=Henry-Howard&count_private=true&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
 
