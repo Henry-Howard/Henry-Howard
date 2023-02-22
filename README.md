@@ -38,14 +38,18 @@
 
 <!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Henry-Howard" alt="Henry-Howard" /></a> </p>-->
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Henry-Howard&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)
+<h3 align="center">
 
-![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Howard&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Henry-Howard&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) ![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Howard&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
 
-![top-language](https://github-readme-stats.vercel.app/api/top-langs?username=Henry-Howard&count_private=true&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117)
+</h3>
 
 <h3>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h3>
 
 ## Activity 👩‍💻
 
-[![Henry Howard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henry_howard&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Howard&langs_count=8&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Henry-Howard/github-readme-stats)   [![Henry Howard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henry_howard&langs_count=12&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+</h3>
