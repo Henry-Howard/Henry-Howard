@@ -44,8 +44,6 @@
 
 </h3>
 
-<h3>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h3>
-
 ## Activity 👩‍💻
 
 <h3 align="center">
@@ -53,3 +51,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-Howard&langs_count=8&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Henry-Howard/github-readme-stats)   [![Henry Howard's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henry_howard&langs_count=12&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 </h3>
+
+<h3>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h3>
