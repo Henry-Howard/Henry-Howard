@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning 😎**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects 😁**
 
-- 💬 Ask me about **Anything 🤣**
+- 💬 Ask me about **Anything 😉**
 
 - 📫 How to reach me **Nguyenchien2000.info@gmail.com**
 
