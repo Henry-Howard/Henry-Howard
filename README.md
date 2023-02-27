@@ -40,7 +40,8 @@
 
 <h3 align="center">
 
-![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Henry-Howard&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  ![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Howard&theme=black-ice&hide_border=true&stroke=0000&background=0D1117)
+![github-readme-stats](https://github-readme-stats.vercel.app/api?username=Henry-Howard&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)  
+<!--<p align="center"> ![github-readme-streak-stats](https://github-readme-streak-stats.herokuapp.com/?user=Henry-Howard&theme=black-ice&hide_border=true&stroke=0000&background=0D1117) </p>-->
 
 </h3>
 
