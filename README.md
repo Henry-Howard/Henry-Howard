@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything 😉**
 
-- 📫 How to reach me **Nguyenchien2000.info@gmail.com**
+- 📫 How to reach me **Nguyenchien.corp@gmail.com**
 
 ## Connect with me 👀
 
